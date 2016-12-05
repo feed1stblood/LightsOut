@@ -1,6 +1,5 @@
 # LightsOut
 A mini game Lights Out based on MFC (c++ on windows)  
-My appologies that some prompt text are in Chinese
 
 # Rule    
 * Click on the black or white squares to switch the lights (and adjacent lights)  
@@ -10,4 +9,5 @@ My appologies that some prompt text are in Chinese
 [Light.exe](bin/Light.exe)
 
 # Screenshot  
+My appologies that some prompt text are in Chinese  
 ![screenshot](docs/screenshot.png)
